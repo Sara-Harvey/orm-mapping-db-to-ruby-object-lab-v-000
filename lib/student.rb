@@ -9,9 +9,6 @@ class Student
     new_student.grade = row[2]
     new_student
   end
-  
-  
-  end
 
   def self.all
     # retrieve all the rows from the "Students" database
